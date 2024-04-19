@@ -1,0 +1,550 @@
+{
+    "data": {
+        "results": [
+            {
+                "trips": [
+                    {
+                        "multipleOriginStations": false,
+                        "multipleDestinationStations": false,
+                        "date": "2024-03-31T00:00:00",
+                        "journeysAvailableByMarket": {
+                            "SXR|BLR": [
+                                {
+                                    "flightType": 4,
+                                    "stops": 1,
+                                    "designator": {
+                                        "destination": "BLR",
+                                        "origin": "SXR",
+                                        "arrival": "2024-03-31T20:20:00",
+                                        "departure": "2024-03-31T09:00:00"
+                                    },
+                                    "journeyKey": "UVB_MTYzOH4gfn5TWFJ_MDMvMzEvMjAyNCAwOTowMH5CT01_MDMvMzEvMjAyNCAxMjowNX5_XlFQfjEzNzZ_IH5_Qk9NfjAzLzMxLzIwMjQgMTg6MzV_QkxSfjAzLzMxLzIwMjQgMjA6MjB_fg--",
+                                    "segments": [
+                                        {
+                                            "isChangeOfGauge": false,
+                                            "isBlocked": false,
+                                            "isHosted": true,
+                                            "designator": {
+                                                "destination": "BOM",
+                                                "origin": "SXR",
+                                                "arrival": "2024-03-31T12:05:00",
+                                                "departure": "2024-03-31T09:00:00"
+                                            },
+                                            "isSeatmapViewable": true,
+                                            "segmentKey": "UVB_MTYzOH4gfn5TWFJ_MDMvMzEvMjAyNCAwOTowMH5CT01_MDMvMzEvMjAyNCAxMjowNX5_",
+                                            "identifier": {
+                                                "identifier": "1638",
+                                                "carrierCode": "QP",
+                                                "opSuffix": null
+                                            },
+                                            "cabinOfService": null,
+                                            "externalIdentifier": null,
+                                            "international": false,
+                                            "segmentType": 0,
+                                            "legs": [
+                                                {
+                                                    "legKey": "NjM4NDc0NzI0MDAwMDAwMDAwIVFQITE2MzghICFTWFIhQk9NITE3MjIxMQ--",
+                                                    "operationsInfo": null,
+                                                    "designator": {
+                                                        "destination": "BOM",
+                                                        "origin": "SXR",
+                                                        "arrival": "2024-03-31T12:05:00",
+                                                        "departure": "2024-03-31T09:00:00"
+                                                    },
+                                                    "legInfo": {
+                                                        "departureTimeUtc": "2024-03-31T03:30:00Z",
+                                                        "arrivalTimeUtc": "2024-03-31T06:35:00Z",
+                                                        "adjustedCapacity": 0,
+                                                        "arrivalTerminal": "T1",
+                                                        "arrivalTimeVariant": 330,
+                                                        "backMoveDays": 0,
+                                                        "capacity": 0,
+                                                        "changeOfDirection": false,
+                                                        "codeShareIndicator": 0,
+                                                        "departureTerminal": null,
+                                                        "departureTimeVariant": 330,
+                                                        "equipmentType": "7MA",
+                                                        "equipmentTypeSuffix": null,
+                                                        "eTicket": true,
+                                                        "irop": false,
+                                                        "lid": 0,
+                                                        "marketingCode": null,
+                                                        "marketingOverride": false,
+                                                        "operatedByText": null,
+                                                        "operatingCarrier": null,
+                                                        "operatingFlightNumber": null,
+                                                        "operatingOpSuffix": null,
+                                                        "outMoveDays": 0,
+                                                        "arrivalTime": "2024-03-31T12:05:00",
+                                                        "departureTime": "2024-03-31T09:00:00",
+                                                        "prbcCode": "TSTSTLS0",
+                                                        "scheduleServiceType": "J",
+                                                        "sold": 0,
+                                                        "status": 0,
+                                                        "subjectToGovtApproval": false
+                                                    },
+                                                    "nests": [],
+                                                    "ssrs": [],
+                                                    "seatmapReference": "UVAhMTYzOCEgITYzODQ3NDcyNDAwMDAwMDAwMCFTWFIhQk9N",
+                                                    "flightReference": "20240331 QP1638 SXRBOM"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isChangeOfGauge": false,
+                                            "isBlocked": false,
+                                            "isHosted": true,
+                                            "designator": {
+                                                "destination": "BLR",
+                                                "origin": "BOM",
+                                                "arrival": "2024-03-31T20:20:00",
+                                                "departure": "2024-03-31T18:35:00"
+                                            },
+                                            "isSeatmapViewable": true,
+                                            "segmentKey": "UVB_MTM3Nn4gfn5CT01_MDMvMzEvMjAyNCAxODozNX5CTFJ_MDMvMzEvMjAyNCAyMDoyMH5_",
+                                            "identifier": {
+                                                "identifier": "1376",
+                                                "carrierCode": "QP",
+                                                "opSuffix": null
+                                            },
+                                            "cabinOfService": null,
+                                            "externalIdentifier": null,
+                                            "international": false,
+                                            "segmentType": 0,
+                                            "legs": [
+                                                {
+                                                    "legKey": "NjM4NDc1MDY5MDAwMDAwMDAwIVFQITEzNzYhICFCT00hQkxSITE1Nzg3NA--",
+                                                    "operationsInfo": null,
+                                                    "designator": {
+                                                        "destination": "BLR",
+                                                        "origin": "BOM",
+                                                        "arrival": "2024-03-31T20:20:00",
+                                                        "departure": "2024-03-31T18:35:00"
+                                                    },
+                                                    "legInfo": {
+                                                        "departureTimeUtc": "2024-03-31T13:05:00Z",
+                                                        "arrivalTimeUtc": "2024-03-31T14:50:00Z",
+                                                        "adjustedCapacity": 0,
+                                                        "arrivalTerminal": "T1",
+                                                        "arrivalTimeVariant": 330,
+                                                        "backMoveDays": 0,
+                                                        "capacity": 0,
+                                                        "changeOfDirection": false,
+                                                        "codeShareIndicator": 0,
+                                                        "departureTerminal": "T1",
+                                                        "departureTimeVariant": 330,
+                                                        "equipmentType": "7MZ",
+                                                        "equipmentTypeSuffix": null,
+                                                        "eTicket": true,
+                                                        "irop": false,
+                                                        "lid": 0,
+                                                        "marketingCode": null,
+                                                        "marketingOverride": false,
+                                                        "operatedByText": null,
+                                                        "operatingCarrier": null,
+                                                        "operatingFlightNumber": null,
+                                                        "operatingOpSuffix": null,
+                                                        "outMoveDays": 0,
+                                                        "arrivalTime": "2024-03-31T20:20:00",
+                                                        "departureTime": "2024-03-31T18:35:00",
+                                                        "prbcCode": "B737DUAL",
+                                                        "scheduleServiceType": "J",
+                                                        "sold": 0,
+                                                        "status": 0,
+                                                        "subjectToGovtApproval": false
+                                                    },
+                                                    "nests": [],
+                                                    "ssrs": [],
+                                                    "seatmapReference": "UVAhMTM3NiEgITYzODQ3NTA2OTAwMDAwMDAwMCFCT00hQkxS",
+                                                    "flightReference": "20240331 QP1376 BOMBLR"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fares": [
+                                        {
+                                            "fareAvailabilityKey": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdSQklYfjEwMDF_fjV_MX5OQkxSQk9NMDA1MDAxMH5YITAy",
+                                            "details": [
+                                                {
+                                                    "availableCount": 4,
+                                                    "status": 1,
+                                                    "reference": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_",
+                                                    "serviceBundleSetCode": null,
+                                                    "bundleReferences": null,
+                                                    "ssrReferences": null
+                                                },
+                                                {
+                                                    "availableCount": 4,
+                                                    "status": 1,
+                                                    "reference": "Mn5RMn5_UVB_UTJPN1JCSVh_MTAwMX5_NX4xfk5CTFJCT00wMDUwMDEwflg-",
+                                                    "serviceBundleSetCode": null,
+                                                    "bundleReferences": null,
+                                                    "ssrReferences": null
+                                                }
+                                            ],
+                                            "isSumOfSector": true
+                                        },
+                                        {
+                                            "fareAvailabilityKey": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdWQklYfjEwMDJ_fjl_MX5OQkxSQk9NMDA5MDAxMH5YITEz",
+                                            "details": [
+                                                {
+                                                    "availableCount": 4,
+                                                    "status": 1,
+                                                    "reference": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_",
+                                                    "serviceBundleSetCode": null,
+                                                    "bundleReferences": null,
+                                                    "ssrReferences": null
+                                                },
+                                                {
+                                                    "availableCount": 4,
+                                                    "status": 1,
+                                                    "reference": "Mn5RMn5_UVB_UTJPN1ZCSVh_MTAwMn5_OX4xfk5CTFJCT00wMDkwMDEwflg-",
+                                                    "serviceBundleSetCode": null,
+                                                    "bundleReferences": null,
+                                                    "ssrReferences": null
+                                                }
+                                            ],
+                                            "isSumOfSector": true
+                                        }
+                                    ],
+                                    "notForGeneralUser": false
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ],
+        "faresAvailable": {
+            "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdSQklYfjEwMDF_fjV_MX5OQkxSQk9NMDA1MDAxMH5YITAy": {
+                "totals": {
+                    "fareTotal": 108585.0,
+                    "revenueTotal": 95991.0,
+                    "publishedTotal": 95991.0,
+                    "loyaltyTotal": 0.0,
+                    "discountedTotal": 95991.0
+                },
+                "isSumOfSector": true,
+                "fareAvailabilityKey": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdSQklYfjEwMDF_fjV_MX5OQkxSQk9NMDA1MDAxMH5YITAy",
+                "fares": [
+                    {
+                        "isGoverning": false,
+                        "fareBasisCode": "B0O7RBIX",
+                        "classOfService": "B",
+                        "classType": null,
+                        "fareApplicationType": 1,
+                        "fareStatus": 0,
+                        "productClass": "EC",
+                        "ruleNumber": "1001",
+                        "ruleTariff": null,
+                        "passengerFares": [
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "ADT",
+                                "fareAmount": 30390.0,
+                                "revenueFare": 26192.0,
+                                "publishedFare": 26192.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 26192.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 26192.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 26192.0,
+                                        "ticketCode": null
+                                    },
+                                    {
+                                        "amount": 4198.0,
+                                        "code": null,
+                                        "detail": "TaxFeeSum",
+                                        "type": 5,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 4198.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 2
+                            },
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "CHD",
+                                "fareAmount": 30390.0,
+                                "revenueFare": 26192.0,
+                                "publishedFare": 26192.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 26192.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 26192.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 26192.0,
+                                        "ticketCode": null
+                                    },
+                                    {
+                                        "amount": 4198.0,
+                                        "code": null,
+                                        "detail": "TaxFeeSum",
+                                        "type": 5,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 4198.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 1
+                            }
+                        ],
+                        "travelClassCode": null,
+                        "isAllotmentMarketFare": false,
+                        "reference": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_"
+                    },
+                    {
+                        "isGoverning": true,
+                        "fareBasisCode": "Q2O7RBIX",
+                        "classOfService": "Q2",
+                        "classType": null,
+                        "fareApplicationType": 2,
+                        "fareStatus": 0,
+                        "productClass": "EC",
+                        "ruleNumber": "1001",
+                        "ruleTariff": null,
+                        "passengerFares": [
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "ADT",
+                                "fareAmount": 5805.0,
+                                "revenueFare": 5805.0,
+                                "publishedFare": 5805.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 5805.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 5805.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 5805.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 2
+                            },
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "CHD",
+                                "fareAmount": 5805.0,
+                                "revenueFare": 5805.0,
+                                "publishedFare": 5805.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 5805.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 5805.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 5805.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 1
+                            }
+                        ],
+                        "travelClassCode": null,
+                        "isAllotmentMarketFare": false,
+                        "reference": "Mn5RMn5_UVB_UTJPN1JCSVh_MTAwMX5_NX4xfk5CTFJCT00wMDUwMDEwflg-"
+                    }
+                ]
+            },
+            "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdWQklYfjEwMDJ_fjl_MX5OQkxSQk9NMDA5MDAxMH5YITEz": {
+                "totals": {
+                    "fareTotal": 109824.0,
+                    "revenueTotal": 97131.0,
+                    "publishedTotal": 97131.0,
+                    "loyaltyTotal": 0.0,
+                    "discountedTotal": 97131.0
+                },
+                "isSumOfSector": true,
+                "fareAvailabilityKey": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_XjJ_UTJ_flFQflEyTzdWQklYfjEwMDJ_fjl_MX5OQkxSQk9NMDA5MDAxMH5YITEz",
+                "fares": [
+                    {
+                        "isGoverning": false,
+                        "fareBasisCode": "B0O7RBIX",
+                        "classOfService": "B",
+                        "classType": null,
+                        "fareApplicationType": 1,
+                        "fareStatus": 0,
+                        "productClass": "EC",
+                        "ruleNumber": "1001",
+                        "ruleTariff": null,
+                        "passengerFares": [
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "ADT",
+                                "fareAmount": 30423.0,
+                                "revenueFare": 26192.0,
+                                "publishedFare": 26192.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 26192.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 26192.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 26192.0,
+                                        "ticketCode": null
+                                    },
+                                    {
+                                        "amount": 4231.0,
+                                        "code": null,
+                                        "detail": "TaxFeeSum",
+                                        "type": 5,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 4231.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 2
+                            },
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "CHD",
+                                "fareAmount": 30423.0,
+                                "revenueFare": 26192.0,
+                                "publishedFare": 26192.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 26192.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 26192.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 26192.0,
+                                        "ticketCode": null
+                                    },
+                                    {
+                                        "amount": 4231.0,
+                                        "code": null,
+                                        "detail": "TaxFeeSum",
+                                        "type": 5,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 4231.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 1
+                            }
+                        ],
+                        "travelClassCode": null,
+                        "isAllotmentMarketFare": false,
+                        "reference": "MX5Cfn5RUH5CME83UkJJWH4xMDAxfn42fjF_TkJPTVNYUjAwNjAwMTB_"
+                    },
+                    {
+                        "isGoverning": true,
+                        "fareBasisCode": "Q2O7VBIX",
+                        "classOfService": "Q2",
+                        "classType": null,
+                        "fareApplicationType": 2,
+                        "fareStatus": 0,
+                        "productClass": "AV",
+                        "ruleNumber": "1002",
+                        "ruleTariff": null,
+                        "passengerFares": [
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "ADT",
+                                "fareAmount": 6185.0,
+                                "revenueFare": 6185.0,
+                                "publishedFare": 6185.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 6185.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 6185.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 6185.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 2
+                            },
+                            {
+                                "fareDiscountCode": null,
+                                "passengerDiscountCode": null,
+                                "passengerType": "CHD",
+                                "fareAmount": 6185.0,
+                                "revenueFare": 6185.0,
+                                "publishedFare": 6185.0,
+                                "loyaltyPoints": 0.0,
+                                "discountedFare": 6185.0,
+                                "serviceCharges": [
+                                    {
+                                        "amount": 6185.0,
+                                        "code": null,
+                                        "detail": null,
+                                        "type": 0,
+                                        "collectType": 0,
+                                        "currencyCode": "INR",
+                                        "foreignCurrencyCode": "INR",
+                                        "foreignAmount": 6185.0,
+                                        "ticketCode": null
+                                    }
+                                ],
+                                "multiplier": 1
+                            }
+                        ],
+                        "travelClassCode": null,
+                        "isAllotmentMarketFare": false,
+                        "reference": "Mn5RMn5_UVB_UTJPN1ZCSVh_MTAwMn5_OX4xfk5CTFJCT00wMDkwMDEwflg-"
+                    }
+                ]
+            }
+        },
+        "currencyCode": "INR",
+        "includeTaxesAndFees": true,
+        "bundleOffers": null
+    }
+}

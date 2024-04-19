@@ -1,0 +1,16 @@
+{
+    "journeyTotal":20,
+    "totalTax":30,
+    "legInfo":[
+        {
+            "arrivalDate":"",
+            "arrivalTime":"",
+            "arrivalTerminal":"",
+            "departureDate":"",
+            "departureTime":"",
+            "departureTerminal":"",
+            "arrivalCity":"",
+            "departureCity":""
+    }  
+   ]
+}

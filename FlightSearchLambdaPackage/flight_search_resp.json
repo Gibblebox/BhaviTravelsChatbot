@@ -1,0 +1,64 @@
+{
+    "origin": "",
+    "destination": "",
+    "dateOfDeparture": "",
+    "journeys": [
+        {
+            "journeyKey": "",
+            "dateOfDeparture": "",
+            "dateOfArrival": "",
+            "timeOfDeparture": "",
+            "timeOfArrival": "",
+            "stops": "",
+            "totalDurationOfJourney": "",
+            "segments": [
+                {
+                    "segmentKey": "",
+                    "flightIdentifier":"",
+                    "origin": "",
+                    "destination": "",
+                    "dateOfDeparture": "",
+                    "dateOfArrival": "",
+                    "timeOfDeparture": "",
+                    "timeOfArrival": ""
+                },
+                {
+                    "segmentKey": "",
+                    "flightIdentifier":"",
+                    "origin": "",
+                    "destination": "",
+                    "dateOfDeparture": "",
+                    "dateOfArrival": "",
+                    "timeOfDeparture": "",
+                    "timeOfArrival": ""
+                }
+            ],
+
+            "ecFareTotal":"",
+            "ecFareDiscountedTotal":"",
+
+            "ecADTFarePerADT":"",
+            "ecADTTaxesPerADT":"",
+            "ecADTmultiplier":"",
+
+            "ecCHDFarePerADT":"",
+            "ecCHDTaxesPerADT":"",
+            "ecCHDmultiplier":"",
+
+
+            "avFareTotal":"",
+            "avFareDiscountedTotal":"",
+
+
+            "avADTFarePerADT":"",
+            "avADTTaxesPerADT":"",
+            "avADTmultiplier":"",
+
+            "avCHDFarePerCHD":"",
+            "avCHDTaxesPerCHD":"",
+            "avCHDmultiplier":""
+
+            
+        }
+    ]
+}
